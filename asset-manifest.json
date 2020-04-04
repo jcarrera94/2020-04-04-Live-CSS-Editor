@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/2020-04-04-Live-CSS-Editor/static/css/main.85a83d06.chunk.css",
+    "main.js": "/2020-04-04-Live-CSS-Editor/static/js/main.fc58c52d.chunk.js",
+    "main.js.map": "/2020-04-04-Live-CSS-Editor/static/js/main.fc58c52d.chunk.js.map",
+    "runtime-main.js": "/2020-04-04-Live-CSS-Editor/static/js/runtime-main.a203642f.js",
+    "runtime-main.js.map": "/2020-04-04-Live-CSS-Editor/static/js/runtime-main.a203642f.js.map",
+    "static/js/2.1c92a797.chunk.js": "/2020-04-04-Live-CSS-Editor/static/js/2.1c92a797.chunk.js",
+    "static/js/2.1c92a797.chunk.js.map": "/2020-04-04-Live-CSS-Editor/static/js/2.1c92a797.chunk.js.map",
+    "index.html": "/2020-04-04-Live-CSS-Editor/index.html",
+    "precache-manifest.b0bb2c9f4d96d5f2d65b9f59cedbcab9.js": "/2020-04-04-Live-CSS-Editor/precache-manifest.b0bb2c9f4d96d5f2d65b9f59cedbcab9.js",
+    "service-worker.js": "/2020-04-04-Live-CSS-Editor/service-worker.js",
+    "static/css/main.85a83d06.chunk.css.map": "/2020-04-04-Live-CSS-Editor/static/css/main.85a83d06.chunk.css.map",
+    "static/js/2.1c92a797.chunk.js.LICENSE.txt": "/2020-04-04-Live-CSS-Editor/static/js/2.1c92a797.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/2020-04-04-Live-CSS-Editor/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a203642f.js",
+    "static/js/2.1c92a797.chunk.js",
+    "static/css/main.85a83d06.chunk.css",
+    "static/js/main.fc58c52d.chunk.js"
+  ]
+}
