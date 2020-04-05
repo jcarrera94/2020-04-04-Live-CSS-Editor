@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c411c617dca1160c644ea29551fba1ef",
+    "revision": "e98bbc0204b8672f2796598fb0570688",
     "url": "/2020-04-04-Live-CSS-Editor/index.html"
   },
   {
-    "revision": "5f3c938fd58aa0c6d031",
+    "revision": "30796032c966234e8fd3",
     "url": "/2020-04-04-Live-CSS-Editor/static/css/main.85a83d06.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2020-04-04-Live-CSS-Editor/static/js/2.1c92a797.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5f3c938fd58aa0c6d031",
-    "url": "/2020-04-04-Live-CSS-Editor/static/js/main.fc58c52d.chunk.js"
+    "revision": "30796032c966234e8fd3",
+    "url": "/2020-04-04-Live-CSS-Editor/static/js/main.1fabfc7f.chunk.js"
   },
   {
     "revision": "422cc03ac6b28a88dfdf",
